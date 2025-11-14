@@ -12,3 +12,10 @@ Mi objetivo principal es aprender todo lo posible son el curso actual DAM
 
 Un programador puede contribuir a la sostenibilidad optimizando el código y los sistemas para reducir el consumo energético y el uso innecesario de recursos.
 Además, puede promover prácticas éticas y responsables, impulsando soluciones digitales que minimicen su impacto ambiental.
+
+## Tecnologías que me interesan
+- HTML
+- Python
+- Git y GitHub
+- CSS y JavaScript
+- SQL
